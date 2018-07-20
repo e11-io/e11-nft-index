@@ -1,0 +1,38 @@
+{
+  "alice": {
+    "tokens": [
+      { "type": 512, "quantity": 254, "uri": "IPFS:Alice1:URI" },
+      { "type": 2, "quantity": 255, "uri": "IPFS:Alice2:URI" }
+    ],
+    "name": "AliceNFT",
+    "symbol": "ANFT",
+    "quantityMask": 1
+  },
+  "bob": {
+    "tokens": [
+      { "type": 254, "quantity": 1, "uri": "IPFS:Bob1:URI" },
+      { "type": 255, "quantity": 2, "uri": "IPFS:Bob2:URI" }
+    ],
+    "name": "BobNFT",
+    "symbol": "BNFT",
+    "quantityMask": 31
+  },
+  "carol": {
+    "tokens": [
+      { "type": "Sword", "quantity": 1, "uri": "IPFS:Carol1:URI" },
+      { "type": "Shield", "quantity": 2, "uri": "IPFS:Carol2:URI" }
+    ],
+    "name": "CarolNFT",
+    "symbol": "CNFT",
+    "quantityMask": 16
+  },
+  "george": {
+    "tokens": [
+      { "type": "Armor", "quantity": 1, "uri": "IPFS:George1:URI" },
+      { "type": "Boots", "quantity": 2, "uri": "IPFS:George2:URI" }
+    ],
+    "name": "GeorgeNFT",
+    "symbol": "GNFT",
+    "quantityMask": 16
+  }
+}

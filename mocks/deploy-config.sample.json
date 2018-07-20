@@ -1,0 +1,10 @@
+{
+  "mainnet" : {
+    "privateKey": "e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e",
+    "endpoint": "https://mainnet.infura.io/infura-api-key"
+  },
+  "ropsten": {
+    "privateKey": "e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e11e",
+    "endpoint": "https://ropsten.infura.io/infura-api-key"
+  }
+}

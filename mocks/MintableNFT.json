@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    { "type": 1, "quantity": 1, "price": 0.5 },
+    { "type": 2, "quantity": 10, "price": 0.005 },
+    { "type": 3, "quantity": 100, "price": 0.0005 },
+    { "type": 4, "quantity": 1000, "price": 0 }
+  ],
+  "name": "ExperimentalNFT",
+  "symbol": "e11nft",
+  "quantityMask": 12,
+  "batchSize": 32
+}
